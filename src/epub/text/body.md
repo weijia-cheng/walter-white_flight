@@ -1,10 +1,3 @@
-# Dedication {.dedication epub:type=preface} 
-
-For my daughter
-
-JANE
-
-
 # Chapter <span epub:type="ordinal z3998:roman">I</span>
 
 The long train rumbled and swayed, whistle blowing intermittently,
