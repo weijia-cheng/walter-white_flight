@@ -80,6 +80,11 @@ p span.i2{
 }
 /* End verse */
 
+#chapter-13 blockquote{
+	font-variant: small-caps;
+	text-align: center;
+}
+
 #chapter-14 blockquote div header{
 	font-style: italic;
 	font-variant: normal;
