@@ -30,52 +30,53 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Flight</dc:title>
 		<meta property="file-as" refines="#title">Flight</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">African Americans--Fiction</dc:subject>
+		<dc:subject id="subject-2">Passing (Identity)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Single mothers--Fiction</dc:subject>
+		<dc:subject id="subject-4">New York (N.Y.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Atlanta (Ga.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh2007100196</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="schema:genre">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008108937</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111363</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108377</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2007100654</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<dc:description id="description">A young Louisana Creole woman struggles with racial and gender equality as she asserts her independence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After the death of his wife Margot, Jean Daquin, the patriarch of a proud Louisana Creole family, finds himself crushed by despair. As a widower, Jean is barely able to take care of his daughter Mimi, but he marries Mary Robertson, the industrious daughter of a Chicago businessman. Mary takes charge over the family’s affairs and convinces Jean to move the family out of New Orleans in order to pursue more lucrative business opportunities in Atlanta. As Mimi comes of age in Atlanta, she becomes increasingly conscious of her racial identity as a woman of color and the stifling cultural conformity that is demanded among Atlanta’s African-American bourgeoisie. &lt;i&gt;Flight&lt;/i&gt; follows Mimi’s struggle to assert her independence and live according to her principles in the face of racial and gender inequality, which takes her from Atlanta to Philadelphia and ultimately New York City. It is the second novel published by &lt;a href="https://standardebooks.org/ebooks/walter-white"&gt;Walter White&lt;/a&gt;, who later became the executive secretary of the NAACP.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://nealcaren.github.io/crisis-and-opportunity-books/flight.html</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001188326</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="https://en.wikipedia.org/wiki/Flight" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/walter-white_flight" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Walter White</dc:creator>
 		<meta property="file-as" refines="#author">White, Walter</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<link href="https://en.wikipedia.org/wiki/Walter_White" refines="#author" rel="schema:sameAs"/>
-		<link href="CONTRIBUTOR_NACOAF_URI" refines="#author" rel="schema:sameAs"/>
+		<meta property="schema:alternateName" refines="#author">Walter Francis White</meta>
+		<link href="https://en.wikipedia.org/wiki/Walter_White_(activist)" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50019876.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<dc:contributor id="artist">Ernest Lawson</dc:contributor>
+		<meta property="file-as" refines="#artist">Lawson, Ernest</meta>
+		<link href="https://en.wikipedia.org/wiki/Ernest_Lawson" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/nr93027556.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Neal Caren</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Caren, Neal</meta>
+		<link href="https://nealcaren.github.io/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<link href="https://www.weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
