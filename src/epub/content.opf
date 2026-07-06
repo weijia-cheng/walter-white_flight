@@ -39,7 +39,7 @@
 		<meta property="schema:genre">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>After the death of his wife Margot, Jean Daquin, the patriarch of a proud Louisana Creole family, finds himself crushed by despair. As a widower, Jean is barely able to take care of his daughter Mimi, but he marries Mary Robertson, the industrious daughter of a Chicago businessman. Mary takes charge over the family’s affairs and convinces Jean to move the family out of New Orleans in order to pursue more lucrative business opportunities in Atlanta. As Mimi comes of age in Atlanta, she becomes increasingly conscious of her racial identity as a woman of color and the stifling cultural conformity that is demanded among Atlanta’s African-American bourgeoisie. <i>Flight</i> follows Mimi’s struggle to assert her independence and live according to her principles in the face of racial and gender inequality, which takes her from Atlanta to Philadelphia and ultimately New York City. It is the second novel published by <a href="https://standardebooks.org/ebooks/walter-white">Walter White</a>, who later became the executive secretary of the NAACP.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>TRANSCRIPTION_URL</dc:source>
